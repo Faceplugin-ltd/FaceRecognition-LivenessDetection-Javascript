@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="kby-face" src="https://github.com/kby-ai/FaceRecognition-Javascript/assets/82228271/cab95553-8881-41ca-b37d-a0606877c942" width="300" width="300">
+<img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
 </div>
 
 
