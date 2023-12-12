@@ -1,0 +1,41 @@
+{
+  "name": "kby-face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kby-ai/FaceRecognition-Javascript.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kby-ai/FaceRecognition-Javascript/issues"
+  },
+  "homepage": "https://github.com/kby-ai/FaceRecognition-Javascript#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.4.2",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "babel-preset-env": "^1.7.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "eslint": "^8.3.0",
+    "jest": "^27.4.3",
+    "terser-webpack-plugin": "^5.2.5",
+    "ndarray": "^1.0.19",
+    "ndarray-ops": "^1.2.2",
+    "onnxruntime-web": "^1.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "babel-loader": "^8.2.5",
+    "copy-webpack-plugin": "^8.1.1",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
