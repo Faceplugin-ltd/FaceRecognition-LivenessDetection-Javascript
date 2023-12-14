@@ -47,8 +47,8 @@ npm install kby-face
 https://user-images.githubusercontent.com/82228271/187199680-208c7995-21b1-48d7-8758-3977452ff955.mp4
 
 
-* [Vue.js Demo](https://github.com/AI-Innovator/Face-Recognition-SDK-Demo-Vue)
-* [React.js Demo](https://github.com/AI-Innovator/Face-Recognition-SDK-Demo-React)
+* [Vue.js Demo](https://github.com/kby-ai/FaceRecognition-Vue)
+* [React.js Demo](https://github.com/kby-ai/FaceRecognition-React)
 
 [**Please subscribe on Youtube channel**]
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1aogUPLjdtw" target="_blank">
