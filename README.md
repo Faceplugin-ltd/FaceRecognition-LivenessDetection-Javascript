@@ -44,7 +44,8 @@ npm install kby-face
 <details open>
 <summary><h2>Examples</h2></summary>
 
-https://user-images.githubusercontent.com/82228271/187199680-208c7995-21b1-48d7-8758-3977452ff955.mp4
+https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0fef-4483-85a7-76792c0f3b56
+
 
 
 * [Vue.js Demo](https://github.com/kby-ai/FaceRecognition-Vue)
