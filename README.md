@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
+<img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-Javascript/assets/160750757/657130a9-50f2-486d-b6d5-b78bcec5e6e2.png" width=500/>
 </div>
 
 
@@ -14,7 +14,7 @@
 <summary><h2>Installation</h2></summary>
 
 ```bash
-npm install kby-face
+npm install faceplugin
 ```
 
 </details>
