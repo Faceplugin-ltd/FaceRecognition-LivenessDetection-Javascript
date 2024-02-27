@@ -41,8 +41,8 @@ https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0
 
 
 
-* [Vue.js Demo](https://github.com/kby-ai/FaceRecognition-Vue)
-* [React.js Demo](https://github.com/kby-ai/FaceRecognition-React)
+* [Vue.js Demo](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-Vue)
+* [React.js Demo](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-React)
 
 [**Please subscribe on Youtube channel**]
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1aogUPLjdtw" target="_blank">
@@ -157,6 +157,13 @@ extractFeature(session, canvas_id, landmarks)
 
 </details>
 
+## Contact
+If you want to get better model, please contact us
 
+<div align="left">
+<a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail " alt="faceplugin.com"></a>&emsp;
+<a target="_blank" href="https://t.me/faceplugin"><img src="https://img.shields.io/badge/telegram-@faceplugin-blue.svg?logo=telegram " alt="faceplugin.com"></a>&emsp;
+<a target="_blank" href="https://wa.me/+14422295661"><img src="https://img.shields.io/badge/whatsapp-faceplugin-blue.svg?logo=whatsapp " alt="faceplugin.com">
+</div>
 
 
