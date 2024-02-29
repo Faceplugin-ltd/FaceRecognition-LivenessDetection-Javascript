@@ -10,17 +10,13 @@
 <img src="https://img.shields.io/github/issues-pr/genderev/assassin" alt="pr"/>
 </div>
 
-<details open>
-<summary><h2>Installation</h2></summary>
+<h2>Installation</h2>
 
 ```bash
 npm install faceplugin
 ```
 
-</details>
-
-<details open>
-<summary><h2>Table of Contents</h2></summary>
+<h2>Table of Contents</h2>
 
 * **[Face Detection](#face-detection)**
 * **[Face Landmark Extraction](#face-landmark-extraction)**
@@ -32,10 +28,7 @@ npm install faceplugin
 * **[Age Detection](#age-detection)**
 * **[Face Feature Embedding](#face-recognition)**
 
-</details>
-
-<details open>
-<summary><h2>Examples</h2></summary>
+<h2>Examples</h2>
 
 https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0fef-4483-85a7-76792c0f3b56
 
@@ -49,10 +42,8 @@ https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0
  <img src="http://img.youtube.com/vi/1aogUPLjdtw/maxresdefault.jpg" alt="Watch the video" width="960" height="520" border="10" />
 </a>
 
-</details>
 
-<details>
-<summary><h2>Documentation</h2></summary>
+<h2>Documentation</h2>
 
 Here are some useful documentation
 
@@ -154,8 +145,6 @@ Extract face feature vector in 512 dimension
 ```
 extractFeature(session, canvas_id, landmarks)
 ```
-
-</details>
 
 ## Contact
 If you want to get better model, please contact us
