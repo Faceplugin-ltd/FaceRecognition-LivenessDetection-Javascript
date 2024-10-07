@@ -3,16 +3,18 @@
 </div>
 
 # Face Recognition SDK Javascript - Fully On Premise
-Experience the epitome of speed and fairness with our  face recognition model **Top-ranked on NIST FRVT**, coupled with an advanced **iBeta level 2 liveness detection** engine that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security. <br>This is **on-premise** SDK which means everything is processed on your phone and **NO** data leaves the device 
+## Overview
+Experience the epitome of speed and fairness with our `face recognition model` **Top-ranked on NIST FRVT**, coupled with an advanced **iBeta level 2 liveness detection** engine that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security.
+<br>This is `on-premise SDK` which means everything is processed on the browser and **NO** data leaves the device 
 <br></br>
 
-<h2>Installation</h2>
+## Installation
 
 ```bash
 npm install faceplugin
 ```
 
-<h2>Table of Contents</h2>
+## Table of Contents
 
 * **[Face Detection](#face-detection)**
 * **[Face Landmark Extraction](#face-landmark-extraction)**
@@ -24,7 +26,7 @@ npm install faceplugin
 * **[Age Detection](#age-detection)**
 * **[Face Feature Embedding](#face-recognition)**
 
-<h2>Examples</h2>
+## Examples
 
 https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0fef-4483-85a7-76792c0f3b56
 
@@ -39,7 +41,7 @@ https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0
 </a>
 
 
-<h2>Documentation</h2>
+## Documentation
 
 Here are some useful documentation
 
