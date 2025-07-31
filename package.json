@@ -1,6 +1,6 @@
 {
-  "name": "kby-face",
-  "version": "1.0.0",
+  "name": "faceplugin-face-recognition-js",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kby-ai/FaceRecognition-Javascript.git"
+    "url": "git+https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript.git"
   },
   "keywords": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kby-ai/FaceRecognition-Javascript/issues"
+    "url": "https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript/issues"
   },
-  "homepage": "https://github.com/kby-ai/FaceRecognition-Javascript#readme",
+  "homepage": "https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-jest": "^27.4.2",
