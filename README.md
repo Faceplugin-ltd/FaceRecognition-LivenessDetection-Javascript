@@ -11,7 +11,7 @@ Experience the epitome of speed and fairness with our `face recognition model` *
 ## Installation
 
 ```bash
-npm install faceplugin
+npm install faceplugin-face-recognition-js
 ```
 
 ## Table of Contents
