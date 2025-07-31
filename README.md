@@ -30,8 +30,8 @@ npm install faceplugin-face-recognition-js
 
 https://github.com/kby-ai/FaceRecognition-Javascript/assets/125717930/551b6964-0fef-4483-85a7-76792c0f3b56
 
-* [Vue.js Demo](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-Vue)
-* [React.js Demo](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-React)
+* [Vue.js Demo](https://github.com/Faceplugin-ltd/FaceRecognition-Vue)
+* [React.js Demo](https://github.com/Faceplugin-ltd/FaceRecognition-React)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1aogUPLjdtw" target="_blank">
  <img src="http://img.youtube.com/vi/1aogUPLjdtw/maxresdefault.jpg" alt="Watch the video" width="960" height="520" border="10" />
