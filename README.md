@@ -4,7 +4,7 @@
 
 # Face Recognition SDK Javascript - Fully On Premise
 ## Overview
-Experience the epitome of speed and fairness with our `face recognition model` **Top-ranked on NIST FRVT**, coupled with an advanced **iBeta level 2 liveness detection** engine that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security.
+Experience speed and fairness with our `face recognition model`, **evaluated in NIST FRTE (formerly FRVT)**, paired with an advanced **passive liveness detection** engine, tested internally following ISO/IEC 30107-3 methodology, that guards against **printed photos, video replays and 3D masks**, with added protection against **deepfake threats**.
 <br>This is `on-premise SDK` which means everything is processed on the browser and **NO** data leaves the device 
 <br></br>
 
